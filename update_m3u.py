@@ -4,7 +4,7 @@ import re
 # URL to fetch data from
 SOURCE_URL = "https://raw.githubusercontent.com/Hasanmahmud000/BDStreamHub-/refs/heads/main/index.html"
 # File to update
-OUTPUT_FILE = "neo.txt"
+OUTPUT_FILE = "neo.m3u"
 
 # Keywords to search
 KEYWORDS = ["Jalsha Movies", "BTV National", "BTV World", "Somoy TV", "Zee Bangla Cinema", "COLORS BANGLA CINEMA", "Colors Cineplex", "Star Gold", "B4U Movie", "Zee Cinema", "South Station", "Star Movies", "Movies Now", "MNX", "sports 18", "SKY SPORTS CRICKET", "Ten Sports", "Super Cricket", "TravelXP Bangla"]
