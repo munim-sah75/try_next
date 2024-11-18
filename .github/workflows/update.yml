@@ -1,0 +1,33 @@
+name: Update M3U File
+
+on:
+  schedule:
+    # Run every 24 hours
+    - cron: "0 0 * * *"
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Script
+        run: python update_m3u.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "munim-sah75"
+          git config --global user.email "1706008@eee.buet.ac.bd"
+          git add new.m3u
+          git commit -m "Update new.m3u"
+          git push
