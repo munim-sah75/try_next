@@ -7,7 +7,7 @@ SOURCE_URL = "https://raw.githubusercontent.com/Hasanmahmud000/BDStreamHub-/refs
 OUTPUT_FILE = "neo.m3u"
 
 # Keywords to search
-KEYWORDS = ["Jalsha Movies", "BTV National", "BTV World", "Somoy TV", "Zee Bangla Cinema", "COLORS BANGLA CINEMA", "Colors Cineplex", "Star Gold", "B4U Movie", "Zee Cinema", "South Station", "Star Movies", "Movies Now", "MNX", "sports 18", "SKY SPORTS CRICKET", "Ten Sports", "Super Cricket", "TravelXP Bangla"]
+KEYWORDS = ["Jalsha Movies", "A Sports", "BTV National", "BTV World", "Somoy TV", "Zee Bangla Cinema", "COLORS BANGLA CINEMA", "Colors Cineplex", "Star Gold", "B4U Movie", "Zee Cinema", "South Station", "Star Movies", "Movies Now", "MNX", "sports 18", "SKY SPORTS CRICKET", "Ten Sports", "Super Cricket", "TravelXP Bangla"]
 
 def update_m3u():
     response = requests.get(SOURCE_URL)
