@@ -1,4 +1,4 @@
-name: Run update_m3u.py every 15 minuteS
+name: Run update_m3u.py every 15 minutes
 
 on:
   schedule:
