@@ -62,6 +62,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:2
 http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVFypKtTFK24FytADjeobO-gkO8B8FJK8Pg&usqp=CAU",MNX
 http://starshare.live:8080/live/3569087360/6542246996/191.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
+https://nowsports.co.in/cric/stream.m3u8?id=342c5d899393b1f033a99bb416b12d9a|Referer=https://nowsports.co.in//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",SKY SPORTS CRICKET
 https://madplay.live/hls/crichd/index.php?id=skyscric&e=.m3u8|Referer=https://madplay.live//&key=BDStreamHub
 https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in//&key=BDStreamHub
