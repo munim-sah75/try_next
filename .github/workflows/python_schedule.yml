@@ -2,7 +2,7 @@ name: Run update_m3u.py every 24 hours
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # This means "every 24 hours" (midnight UTC)
+    - cron: '0 */4 * * *' # This means "every 24 hours" (midnight UTC)
   push:
     branches:
       - main  # Or your branch of choice
