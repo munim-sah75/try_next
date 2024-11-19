@@ -1,0 +1,43 @@
+name: Run update_m3u.py every 24 hours
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # This runs every 24 hours at midnight UTC
+  push:
+    branches:
+      - main  # Or your branch of choice
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'  # Specify the Python version you need
+
+      # Step 3: Install Python dependencies
+      - name: Install dependencies
+        run: |
+          pip install requests
+          python -m pip install --upgrade pip
+
+      # Step 4: Run the Python script
+      - name: Run the script
+        run: python update_m3u.py
+
+      # Step 5: Commit and push the changes
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add neo.m3u
+          git commit -m "Automated update of neo.m3u"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
