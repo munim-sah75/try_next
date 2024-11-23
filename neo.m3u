@@ -12,8 +12,10 @@ https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebanglacinema|Referer=https://
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies
 http://stvlive.net:8080/jalsamovies-2/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/live/global/global/245900.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=10016&deviceMac=00:1A:79:20:6F:F3
+http://xtv.ooo:8080/live/global/global/245900.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" , COLORS BANGLA CINEMA
 https://colorsscreen.com/stream.php?id=1657&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
 https://colorsscreen.com/live.php?id=1657&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
@@ -48,7 +50,7 @@ https://colorsscreen.com/live.php?id=182&extension=.m3u8|Referer=https://colorss
 
 #EXTINF:-1  tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zee-Cinema.png",Zee Cinema
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinema|Referer=https://mhdmaxtv.me//&key=BDStreamHub
-https://evbr.short.gy/Zeebangla_SD.m3u
+https://evbr.short.gy/zeecinema.m3u
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcZtadM4RSjBp7JZF49VWdOzCL8rWejgLKZ1spZvGk2-xKhc7TziwEjVK&s=10",Zee Cinema HD
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinemahd|Referer=https://mhdmaxtv.me//&key=BDStreamHub
