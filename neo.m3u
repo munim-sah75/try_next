@@ -12,7 +12,7 @@ https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8|Referer=&user-agent=BDStreamHu
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies
 http://stvlive.net:8080/jalsamovies-2/tracks-v1a1/mono.m3u8
-http://xtv.ooo:8080/live/global/global/245900.m3u8
+http://stvlive.net:8080/jalshamovies/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
 http://xtv.ooo:8080/live/global/global/245900.m3u8
