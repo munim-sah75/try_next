@@ -2,7 +2,7 @@ import requests
 import re
 
 # URL to fetch data from
-SOURCE_URL = "https://raw.githubusercontent.com/Hasanmahmud000/BDStreamHub-/refs/heads/main/index.html"
+SOURCE_URL = "https://raw.githubusercontent.com/BDSTVHUB/BDStreamHub/refs/heads/main/index.html"
 # File to update
 OUTPUT_FILE = "neo.m3u"
 
