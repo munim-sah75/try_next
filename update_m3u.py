@@ -81,7 +81,7 @@ def update_m3u():
                         if lines[i + 2].strip() == "":  # Third line is blank
                             continue
                         else:  # Third line is not blank; add the third line
-                            new_content.append(lines[i + 2])
+                            new_content.append(lines[i + 2] + "\n")
                 break  # Stop searching lines for this keyword once it's found
 
     # Add an extra newline at the end
