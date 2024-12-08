@@ -6,7 +6,7 @@ https://app.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/live-orgin/btvbd-off
 https://evbr.short.gy/BDStreamHub/somaitv_Himalvai.m3u
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 https://evbr.short.gy/Zeebangla_Cinema.m3u
-https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8|Referer=https://www.zee5.com//&key=BDStreamHub
+https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8|Referer=&user-agent=BDStreamHub
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies
 http://103.175.242.10:8080/jalshamovies/index.m3u8
