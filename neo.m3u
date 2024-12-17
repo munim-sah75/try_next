@@ -1,10 +1,10 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV National
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
-https://nowlivetv.com/ayna/stream.php?id=1&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/ 
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"} 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
-https://app.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8|Referer=https://app.jagobd.com.bd//&key=BDStreamHub
-https://nowlivetv.com/ayna/stream.php?id=2&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/ 
+#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"} 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy TV
 https://advance.iptvxpose.workers.dev/@somoynews360.m3u8
@@ -49,7 +49,7 @@ https://webott.viatv.com.np/v0t1/StarGoldSelectHD.stream/playlist.m3u8
 http://starshare.live/live/7382837374/5003958588/9376.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10",Star Gold Romance
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/972.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=15531&deviceMac=00:1A:79:09:2B:88
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A0Vd31lmefn_He1-PXLcN2OqNR_O-WjxGOoXpDLdrDykL4H-qYJz5Ysp&s=10",B4U Movie
 https://colorsscreen.com/stream.php?id=182&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
 https://playyonogames.in/live.php?id=182&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
