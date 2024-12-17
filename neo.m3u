@@ -1,11 +1,7 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV National
-#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/ 
-#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"} 
-
+https://nowlivetv.com/ayna/stream.php?id=1&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
-#EXTVLCOPT:http-referrer=https://cloudtv.akamaized.net/ 
-#EXTHTTP:{"referer": "https://cloudtv.akamaized.net/"} 
-
+https://nowlivetv.com/ayna/stream.php?id=2&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy TV
 https://advance.iptvxpose.workers.dev/@somoynews360.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
