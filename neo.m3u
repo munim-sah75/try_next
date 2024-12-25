@@ -6,20 +6,14 @@ https://raw.githubusercontent.com/Hasanmahmud000/Ccvv/main/Tm.m3u8
 https://nowlivetv.com/ayna/stream.php?id=2&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy TV
 https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
-https://raw.githubusercontent.com/Hasanmahmud000/Yt/main/Somai_News.stream.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 https://evbr.short.gy/Zeebangla_Cinema.m3u
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8|Referer=&user-agent=BDStreamHub
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies
-https://bajimath.com/php/stream.m3u8?id=JALSHA-MOVIES&e=.m3u8
-http://starshare.live/live/7382837374/5003958588/425.m3u8
-
+https://raw.github.com/Hasanmahmud000/Yt/main/Jalsha_Movies.stream.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
-https://bajimath.com/php/stream.m3u8?id=JALSHA-MOVIES&e=.m3u8
-http://starshare.live/live/7382837374/5003958588/425.m3u8
-
+https://raw.github.com/Hasanmahmud000/Yt/main/Jalsha_Movies.stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" , COLORS BANGLA CINEMA
 https://colorsscreen.com/stream.php?id=1657&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
 https://playyonogames.in/live.php?id=1657&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
