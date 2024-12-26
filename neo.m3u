@@ -1,9 +1,7 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV National
-https://nowlivetv.com/ayna/stream.php?id=1&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
-https://jcdn.tamilultratv.co.in/live.php?id=183&e=.m3u8|Referer=https://tamilultratv.co.in//?key&user-agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.100 Mobile Safari/537.36
-
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/live-orgin/btvnational1.stream/chunks.m3u8|Referer=//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
-https://nowlivetv.com/ayna/stream.php?id=2&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btv-local-sg-220-org.stream/live-orgin/btv-local-sg-220-org.stream_240p/chunks.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy TV
 https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
