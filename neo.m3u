@@ -1,6 +1,6 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV National
 https://nowlivetv.com/ayna/stream.php?id=1&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
-https://jcdn.tamilultratv.co.in/live.php?id=183&e=.m3u8|Referer=https://tamilultratv.co.in//?key
+https://jcdn.tamilultratv.co.in/live.php?id=183&e=.m3u8|Referer=https://tamilultratv.co.in//?key&user-agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.100 Mobile Safari/537.36
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
 https://nowlivetv.com/ayna/stream.php?id=2&e.m3u8|Referer=https://nowlivetv.com//&key=BDStreamHub
