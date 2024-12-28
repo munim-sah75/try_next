@@ -57,7 +57,7 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies HD
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=12481&deviceMac=00:1A:79:6C:28:A1
 #EXTINF:-1  tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png?v=8.2.3",Star Movies Select HD
-http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=12481&deviceMac=00:1A:79:6C:28:A1
+https://raw.github.com/Hasanmahmud000/Yt/main/Star_Movies_Select.stream.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvXNcstPS6rpZPjVYMEKpCR3oct0BQaGghWQ&usqp=CAU",Movies Now
 http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=12481&deviceMac=00:1A:79:6C:28:A1
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/152387.m3u8
