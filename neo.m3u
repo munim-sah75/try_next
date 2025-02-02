@@ -5,9 +5,7 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy TV
 https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1738487694~acl=%2f*~data=hdntl~hmac=879a1a8a23a7139b0e5698680d2646688d06db6672305c91314150ebf86b1288
-
+https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies
 https://raw.github.com/Hasanmahmud000/Yt/main/Jalsha_Movies.stream.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
@@ -45,13 +43,9 @@ https://playyonogames.in/live.php?id=182&extension=.m3u8|Referer=https://playyon
 https://mycdn.tamilultratv.com/live.php?id=182&e=.m3u8|Referer=https://tamilultratv.co.in/?key=BDStreamHub
 
 #EXTINF:-1  tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zee-Cinema.png",Zee Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1738487697~acl=%2f*~data=hdntl~hmac=b81d42fc9ca7d2a0668f57c2ae417ae499652e0c19a19c3c5c69518f10e2fb22
-
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinema|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwSz-Fb_ivvoN6szqL-0Nf2yvp0H8VwOqjae-FTRuTzpH0RaPRQn2E1jR&s=10",Zee Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1738487691~acl=%2f*~data=hdntl~hmac=04406b9fb72193b9909bfba081f0e9cd9d36ada64fbc94772f1ac80cda9aec91
-
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinemahd|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR75iX7UzGQgX8Ah01oSuPxNulTBGob5TASEaLSpuXQtmRAoN_1bAQbjlE&s=10",South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8|Referer=https://cc-tke03xaj1wszc.akamaized.net//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies HD
