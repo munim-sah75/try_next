@@ -5,18 +5,20 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy TV
 https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
-https://mhdmaxtv.me/nowmelive/stream.m3u8?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1740833222~acl=%2f*~data=hdntl~hmac=32123ae79f83906fa548613e947a811fd2d346c5921971cd7ea6efc5476a0cac
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies
-https://raw.github.com/Hasanmahmud000/Yt/main/Jalsha_Movies.stream.m3u8
+https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
-https://raw.github.com/Hasanmahmud000/Yt/main/Jalsha_Movies.stream.m3u8
+https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" , COLORS BANGLA CINEMA
 https://playyonogames.in/live.php?id=1657&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
-https://mycdn.tamilultratv.com/live.php?id=1657&e=.m3u8|Referer=https://tamilultratv.co.in/?key=BDStreamHub
+https://mhdtvstream.com/live.php?id=1657&e=.m3u8|Referer=https://mhdtvstream.com//&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/MyfKDWw.png",Colors Cineplex
 https://playyonogames.in/live.php?id=482&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
-https://mycdn.tamilultratv.com/live.php?id=482&e=.m3u8|Referer=https://tamilultratv.co.in/?key=BDStreamHub
+https://mhdtvstream.com/live.php?id=482&e=.m3u8|Referer=https://mhdtvstream.com//&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/7LyYgcrq/160x0-icon.png",Colors Cineplex HD
 https://colorsscreen.com/live.php?id=1477&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
@@ -40,7 +42,7 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/72142.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=15531&deviceMac=00:1A:79:09:2B:88
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A0Vd31lmefn_He1-PXLcN2OqNR_O-WjxGOoXpDLdrDykL4H-qYJz5Ysp&s=10",B4U Movie
 https://playyonogames.in/live.php?id=182&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
-https://mycdn.tamilultratv.com/live.php?id=182&e=.m3u8|Referer=https://tamilultratv.co.in/?key=BDStreamHub
+https://mhdtvstream.com/live.php?id=182&e=.m3u8|Referer=https://mhdtvstream.com//&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36
 
 #EXTINF:-1  tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zee-Cinema.png",Zee Cinema
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinema|Referer=https://mhdmaxtv.me//&key=BDStreamHub
@@ -62,15 +64,15 @@ http://starshare.live:8080/live/3569087360/6542246996/191.m3u8
 https://moonkerala.xyz/jcinema/stream.m3u8?id=0000001|Referer=https://moonkerala.xyz//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_2.png",Sports 18₂
 https://colorsscreen.com/stream.php?id=2852&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://mycdn.tamilultratv.com/live.php?id=2852&e=.m3u8|Referer=https://tamilultratv.co.in/?key=BDStreamHub
+https://mhdtvstream.com/live.php?id=2852&e=.m3u8|Referer=https://mhdtvstream.com//&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36
 
 #EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_3.png",Sports 18₃
 https://colorsscreen.com/stream.php?id=2853&e=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
-https://mycdn.tamilultratv.com/live.php?id=2853&e=.m3u8|Referer=https://tamilultratv.co.in/?key=BDStreamHub
+https://mhdtvstream.com/live.php?id=2853&e=.m3u8|Referer=https://mhdtvstream.com//&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2iPvwQPNW6z-Axdl5mXSOLl-91LaquOtiegkl-G0msIaoieMLiQFOSKk&s=10",Sports 18 Khel
 https://playyonogames.in/live.php?id=1998&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
-https://mycdn.tamilultratv.com/live.php?id=1998&e=.m3u8|Referer=https://tamilultratv.co.in/?key=BDStreamHub
+https://mhdtvstream.com/live.php?id=1998&e=.m3u8|Referer=https://mhdtvstream.com//&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 https://nowsports.co.in/cric/stream.m3u8?id=342c5d899393b1f033a99bb416b12d9a|Referer=https://nowsports.co.in//&key=BDStreamHub
