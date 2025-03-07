@@ -5,13 +5,11 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy TV
 https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|Referer=https://static.jagobd.com.bd//&key=BDStreamHub
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema"  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1741265308~acl=%2f*~data=hdntl~hmac=b8c480802e11c755ba96ae717624f67dad20cb5df77e9380eb3203626ad31631
-
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeebanglacinema&vtoken=95157a9194a74bd232b41b1c10a5a752-1741302501&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies
-https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
+https://raw.githubusercontent.com/Hasanmahmud000/Yt/refs/heads/main/Jalsha_Movies.stream.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg",Jalsha Movies HD
-https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
+https://raw.githubusercontent.com/Hasanmahmud000/Yt/refs/heads/main/Jalsha_Movies.stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" , COLORS BANGLA CINEMA
 https://playyonogames.in/live.php?id=1657&extension=.m3u8|Referer=https://playyonogames.in//&key=BDStreamHub
 https://mhdtvstream.com/live.php?id=1657&e=.m3u8|Referer=https://mhdtvstream.com//&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36
@@ -29,15 +27,13 @@ https://moonkerala.xyz/jiohotstar/playit.php?id=3845693|Referer=https://moonkera
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Clzyj12.jpg",Colors Cineplex Superhit HD
 https://moonkerala.xyz/jiohotstar/playit.php?id=3479683|Referer=https://moonkerala.xyz//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jOSoK1R70fLjm2L3SiQFvsIk9gFt33EiQcE1Vze_iXA-NMzwSBE21AI&s=10",Star Gold HD
-https://raw.github.com/Hasanmahmud000/Yt/main/Star_Gold_Hd.stream.m3u8
+https://lifetvbd.xyz:8880/live/omor20/omor20/2586.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/gctfzMTn/73770383-cms.png",Star Gold 2
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/157081.m3u8
+https://lifetvbd.xyz:8880/live/omor20/omor20/3174.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFrgItzysUrYMdT6RqRHIrfl48ocKNwYKuJWgTTlLEA&s",Star Gold THRILLS
-
+https://lifetvbd.xyz:8880/live/omor20/omor20/93.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ktgkqwj.png",Star Gold Select HD
 https://webott.viatv.com.np/v0t1/StarGoldSelectHD.stream/playlist.m3u8
-http://atg100.xyz:80/live/UL33K17/SYC4T9D/72142.m3u8
-
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10",Star Gold Romance
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=15531&deviceMac=00:1A:79:09:2B:88
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A0Vd31lmefn_He1-PXLcN2OqNR_O-WjxGOoXpDLdrDykL4H-qYJz5Ysp&s=10",B4U Movie
@@ -45,9 +41,9 @@ https://playyonogames.in/live.php?id=182&extension=.m3u8|Referer=https://playyon
 https://mhdtvstream.com/live.php?id=182&e=.m3u8|Referer=https://mhdtvstream.com//&User-Agent=Mozilla/5.0 (Linux; Android 14; SM-S911B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.49 Mobile Safari/537.36
 
 #EXTINF:-1  tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zee-Cinema.png",Zee Cinema
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinema|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeecinema&vtoken=3e708efed685c924f1416f870c9f66c2-1741305501&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwSz-Fb_ivvoN6szqL-0Nf2yvp0H8VwOqjae-FTRuTzpH0RaPRQn2E1jR&s=10",Zee Cinema HD
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinemahd|Referer=https://mhdmaxtv.me//&key=BDStreamHub
+https://mhdmaxtv.me/nowmelive/live.php?id=0-9-zeecinemahd&vtoken=47d5f2d1d33cc1742d95c338486ca091-1741305576&format=.m3u8|Referer=https://mhdmaxtv.me//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR75iX7UzGQgX8Ah01oSuPxNulTBGob5TASEaLSpuXQtmRAoN_1bAQbjlE&s=10",South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8|Referer=https://cc-tke03xaj1wszc.akamaized.net//&key=BDStreamHub
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies HD
